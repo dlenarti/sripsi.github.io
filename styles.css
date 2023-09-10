@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Arial Black', Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+.nav-link {
+    margin: 0 10px;
+}
+
+.posts {
+    text-align: left;
+    padding: 50px 0;
+}
+
+.post-link {
+    display: block;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: left;
+    margin-top: 50px;
+}
